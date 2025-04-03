@@ -1,1 +1,5 @@
-# CNN-for-Retinopathy-Images
+# Deep Learning for Diabetic Retinopathy Detection: Enhancing CNN Performance with Image Augmentation
+
+<img width = "544" alt = "Diabetic Retinopathy" src = "https://github.com/user-attachments/assets/9edbe715-36fd-42d8-a288-c64fb06e1354" />
+
+This project involves implementing a Convolutional Neural Network (CNN) to detect diabetic retinopathy (DR) from retina images captured using fundus photography. The dataset includes images taken under various imaging conditions, challenging the model's ability to generalize across different scenarios. To improve generalization performance and mitigate the risk of overfitting, I applied advanced image transformation and data augmentation techniques. These methods enhance the training dataset by introducing variations such as rotation, scaling, and flipping, allowing the model to learn more robust features. By optimizing the CNN architecture and augmenting the dataset, the project aims to achieve high accuracy in DR detection, contributing to more effective automated diagnostic systems for diabetes-related eye diseases.
